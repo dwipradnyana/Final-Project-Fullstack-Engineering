@@ -21,8 +21,7 @@ Before running the project, make sure you have the following software installed 
 **1. Clone the Repository:** Use `git clone` to clone this repository to your local machine.
 
 ```
-git clone https://github.com/Naufal-dzaki/GIGIH-TOKOPEDIA-PLAY.git
-cd GIGIH-TOKOPEDIA-PLAY
+git clone https://github.com/dwipradnyana/Final-Project-Fullstack-Engineering
 ```
 
 **2. Install Dependencies:** Install the required dependencies using a package manager like npm or yarn.
